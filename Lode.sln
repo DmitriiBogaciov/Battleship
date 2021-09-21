@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lode", "Lode.csproj", "{836EFE8A-EC82-4131-9445-5D200E91BBC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{836EFE8A-EC82-4131-9445-5D200E91BBC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{836EFE8A-EC82-4131-9445-5D200E91BBC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{836EFE8A-EC82-4131-9445-5D200E91BBC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{836EFE8A-EC82-4131-9445-5D200E91BBC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {298F3F8E-B818-4E5D-AE67-2AD782AA80D9}
+	EndGlobalSection
+EndGlobal
